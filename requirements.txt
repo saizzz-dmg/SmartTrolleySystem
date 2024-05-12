@@ -1,0 +1,5 @@
+cv==1.0.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+prettytable==3.10.0
+wcwidth==0.2.13
